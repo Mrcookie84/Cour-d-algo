@@ -17,7 +17,6 @@ namespace ConsoleApplication1
             Console.WriteLine("votre nombre est en ? 1 = secondes 2 = minutes 3 = heures 4 = jours : ");
             int choix = int.Parse(Console.ReadLine());
             
-            
             if (choix == 1) 
             {
                 float m = 0f;
