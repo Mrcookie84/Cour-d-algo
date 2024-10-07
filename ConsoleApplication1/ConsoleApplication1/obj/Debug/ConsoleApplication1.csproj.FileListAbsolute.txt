@@ -1,0 +1,6 @@
+C:\Work\Cour-d-algo\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Work\Cour-d-algo\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Work\Cour-d-algo\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.AssemblyReference.cache
+C:\Work\Cour-d-algo\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Work\Cour-d-algo\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Work\Cour-d-algo\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
